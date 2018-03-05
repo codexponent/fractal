@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\Fractal\Fractal\bin\Debug\Fractal.exe.config
+C:\Users\LENOVO\source\repos\Fractal\Fractal\bin\Debug\Fractal.exe
+C:\Users\LENOVO\source\repos\Fractal\Fractal\bin\Debug\Fractal.pdb
+C:\Users\LENOVO\source\repos\Fractal\Fractal\obj\Debug\Fractal.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Fractal\Fractal\obj\Debug\Fractal.Form1.resources
+C:\Users\LENOVO\source\repos\Fractal\Fractal\obj\Debug\Fractal.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Fractal\Fractal\obj\Debug\Fractal.csproj.GenerateResource.Cache
+C:\Users\LENOVO\source\repos\Fractal\Fractal\obj\Debug\Fractal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Fractal\Fractal\obj\Debug\Fractal.exe
+C:\Users\LENOVO\source\repos\Fractal\Fractal\obj\Debug\Fractal.pdb
+C:\Users\LENOVO\source\repos\Fractal\Fractal\obj\Debug\Fractal.Info.resources
+C:\Users\LENOVO\source\repos\Fractal\Fractal\obj\Debug\Fractal.Props.resources
